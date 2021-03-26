@@ -4,17 +4,16 @@ import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import './App.css';
 
-
 function App() {
 
    const [robots, setRobots] = useState([])
    const [searchfield, setSearchfield] = useState('')
 
-    // componentDidMount() {
-    //     fetch('http://jsonplaceholder.typicode.com/users')
-    //     .then(response => response.json())
-    //     .then(users => this.setState({ robots: users}));
-    //  }
+    useEffect(()=> {
+        fetch('http://jsonplaceholder.typicode.com/users')
+        .then(response => response.json())
+        .then(users => {setRobots(users)});
+    },[]);
 
     const onNewSearch = (event) => {
         setSearchfield(event.target.value)
