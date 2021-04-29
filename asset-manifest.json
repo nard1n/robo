@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nard1n/robo/static/css/main.dc45c968.chunk.css",
+    "main.js": "/nard1n/robo/static/js/main.ae154cbb.chunk.js",
+    "main.js.map": "/nard1n/robo/static/js/main.ae154cbb.chunk.js.map",
+    "runtime-main.js": "/nard1n/robo/static/js/runtime-main.9a2576f6.js",
+    "runtime-main.js.map": "/nard1n/robo/static/js/runtime-main.9a2576f6.js.map",
+    "static/css/2.fe359a49.chunk.css": "/nard1n/robo/static/css/2.fe359a49.chunk.css",
+    "static/js/2.0bf62d69.chunk.js": "/nard1n/robo/static/js/2.0bf62d69.chunk.js",
+    "static/js/2.0bf62d69.chunk.js.map": "/nard1n/robo/static/js/2.0bf62d69.chunk.js.map",
+    "static/js/3.0831ba93.chunk.js": "/nard1n/robo/static/js/3.0831ba93.chunk.js",
+    "static/js/3.0831ba93.chunk.js.map": "/nard1n/robo/static/js/3.0831ba93.chunk.js.map",
+    "index.html": "/nard1n/robo/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/nard1n/robo/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.dc45c968.chunk.css.map": "/nard1n/robo/static/css/main.dc45c968.chunk.css.map",
+    "static/js/2.0bf62d69.chunk.js.LICENSE.txt": "/nard1n/robo/static/js/2.0bf62d69.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nard1n/robo/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a2576f6.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.0bf62d69.chunk.js",
+    "static/css/main.dc45c968.chunk.css",
+    "static/js/main.ae154cbb.chunk.js"
+  ]
+}
