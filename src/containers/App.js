@@ -10,7 +10,7 @@ function App() {
    const [searchfield, setSearchfield] = useState('')
 
     useEffect(()=> {
-        fetch('http://jsonplaceholder.typicode.com/users')
+        fetch('https://jsonplaceholder.typicode.com/users')
         .then(response => response.json())
         .then(users => {setRobots(users)});
     },[]);
