@@ -9,7 +9,7 @@ Screenshot of application:
 Screenshot of dynamic sorting:
 ![Screenshot](./robo2.png)
 
-Deployed app is deployed to Heroku, [here](https://nard1n.github.io/robo)
+App is deployed to Heroku, [here](https://protected-thicket-18299.herokuapp.com/)
 
 ## Table of Contents
 
